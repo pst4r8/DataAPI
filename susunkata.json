@@ -1,9 +1,9 @@
 [
   {
     "index": 0,
-    "soal": "O-D-T-R-E-K",
-    "tipe": "Profesi",
-    "jawaban": "DOKTER"
+    "soal": "P-E-A-L",
+    "tipe": "Buah",
+    "jawaban": "APEL"
   },
   {
     "index": 1,
@@ -31,20 +31,20 @@
   },
   {
     "index": 5,
-    "soal": "A-P-I-P",
+    "soal": "P-P-I-A",
     "tipe": "Benda",
     "jawaban": "PIPA"
   },
   {
     "index": 6,
-    "soal": "M-A-Y-A",
+    "soal": "M-A-A-Y",
     "tipe": "Hewan",
     "jawaban": "AYAM"
   },
   {
     "index": 7,
     "soal": "A-K-P-L-E-A",
-    "tipe": "Benda",
+    "tipe": "Bagian Tubuh",
     "jawaban": "KEPALA"
   },
   {
@@ -253,7 +253,7 @@
   },
   {
     "index": 42,
-    "soal": "R-A-U-L",
+    "soal": "R-L-U-A",
     "tipe": "Hewan",
     "jawaban": "ULAR"
   },
@@ -313,7 +313,7 @@
   },
   {
     "index": 52,
-    "soal": "B-R-O-G-O",
+    "soal": "B-R-O-O-G",
     "tipe": "Kota",
     "jawaban": "BOGOR"
   },
@@ -2116,5 +2116,59 @@
     "soal": "A-N-T-R-O-R-S-E",
     "tipe": "Tempat",
     "jawaban": "RESTORAN"
+  },
+  {
+    "index": 353,
+    "soal": "R-B-A",
+    "tipe": "Tempat",
+    "jawaban": "BAR"
+  },
+  {
+    "index": 354,
+    "soal": "G-D-Z-I-L-L-A-O",
+    "tipe": "Monster",
+    "jawaban": "GODZILLA"
+  },
+  {
+    "index": 355,
+    "soal": "O-D-T-R-E-K",
+    "tipe": "Profesi",
+    "jawaban": "DOKTER"
+  },
+  {
+    "index": 356,
+    "soal": "S-M-E-N-I",
+    "tipe": "Benda",
+    "jawaban": "MESIN"
+  },
+  {
+    "index": 357,
+    "soal": "B-R-O-T-O",
+    "tipe": "Benda",
+    "jawaban": "ROBOT"
+  },
+  {
+    "index": 358,
+    "soal": "O-T-R-I",
+    "tipe": "Makanan",
+    "jawaban": "ROTI"
+  },
+  {
+    "index": 359,
+    "soal": "D-P-A-I",
+    "tipe": "Tanaman",
+    "jawaban": "PADI"
+  },
+  {
+      "index": 360,
+    "soal": "K-T-I-S-U",
+    "tipe": "Hewan",
+    "jawaban": "TIKUS"
+  },
+  {
+        "index": 361,
+    "soal": "B-L-U-N-A",
+    "tipe": "Benda",
+    "jawaban": "BULAN"
   }
 ]
